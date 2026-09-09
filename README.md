@@ -11,4 +11,4 @@ Shift Akhir : D
 
 ### Pertemuan 1
 
-![Pertemuan 1](path/ke/gambar-kamu.png)
+![Pertemuan 1](/pemmob-pertemuan1.jpeg)
