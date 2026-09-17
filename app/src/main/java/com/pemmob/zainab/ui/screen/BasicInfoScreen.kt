@@ -71,7 +71,6 @@ fun BasicInfoScreen(navController: NavController) {
         ) {
             Spacer(modifier = Modifier.height(36.dp))
 
-            // Logo Aplikasi
             Image(
                 painter = painterResource(id = R.drawable.icon_app_jualan),
                 contentDescription = "Logo Jualan",
