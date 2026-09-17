@@ -21,4 +21,4 @@ Shift Akhir : D
 ### Pertemuan 3
 
 ![Pertemuan 3](/pertemuan3dark.jpeg)
-![Pertemuan 3](/pertemuan3light-2.jpeg)
+![Pertemuan 3](/pertemuan3light.jpeg)
