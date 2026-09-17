@@ -18,3 +18,7 @@ Shift Akhir : D
 ![Pertemuan 2](/TugasPertemuan2-1.jpeg)
 ![Pertemuan 2](/TugasPertemuan2-2.jpeg)
 
+### Pertemuan 3
+
+![Pertemuan 3](/pertemuan3dark.jpeg)
+![Pertemuan 3](/pertemuan3light-2.jpeg)
