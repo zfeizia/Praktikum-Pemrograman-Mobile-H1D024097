@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a7c0effa-6206-4198-8fa4-f954e6c2ae6c
 ## Identitas
 
 Nama        : Zainab Feizia  
@@ -22,9 +24,13 @@ Shift Akhir : D
 
 ![Pertemuan 3](/pertemuan3dark.jpeg)
 ![Pertemuan 3](/pertemuan3light.jpeg)
-<video src="Pertemuan3.mp4"></video>
+https://github.com/user-attachments/assets/0ad003b8-da3d-4bcd-ab7c-a03e5af45a17
 
 ### Pertemuan 4
 
-<video src="Pertemuan4.mp4"></video>
+https://github.com/user-attachments/assets/ecd6d98e-ca70-49fd-a456-c9fc9e396d2e
+
+
+
+
 
