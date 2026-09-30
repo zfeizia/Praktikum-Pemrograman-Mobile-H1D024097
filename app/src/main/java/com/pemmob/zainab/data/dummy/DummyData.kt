@@ -12,11 +12,11 @@ object DummyData {
 
     val products = listOf(
         // Makanan
-        Product(id = 1, category_id = 1, category = categories[0], name = "Kripik Singkong", description = "Krenyes Gurih", price = 15000.0, stock = 20, img = "dummy_product"),
-        Product(id = 2, category_id = 1, category = categories[0], name = "Mendoan", description = "Mendoan Hangat Gurih/Bumbu", price = 20000.0, stock = 15, img = "dummy_product"),
-        Product(id = 3, category_id = 1, category = categories[0], name = "Sale Pisang", description = "Manis Legit", price = 25000.0, stock = 10, img = "dummy_product"),
-        Product(id = 4, category_id = 1, category = categories[0], name = "Getuk Goreng", description = "Manis Gurih", price = 30000.0, stock = 12, img = "dummy_product"),
-        Product(id = 5, category_id = 1, category = categories[0], name = "Nopia", description = "Manis Manis Kenyal", price = 18000.0, stock = 25, img = "dummy_product"),
+        Product(id = 1, category_id = 1, category = categories[0], name = "Kripik Singkong", description = "Krenyes Gurih", price = 15000.0, stock = 20, img = "keripik_singkong"),
+        Product(id = 2, category_id = 1, category = categories[0], name = "Mendoan", description = "Mendoan Hangat Gurih/Bumbu", price = 20000.0, stock = 15, img = "mendoan"),
+        Product(id = 3, category_id = 1, category = categories[0], name = "Sale Pisang", description = "Manis Legit", price = 25000.0, stock = 10, img = "sale_pisang"),
+        Product(id = 4, category_id = 1, category = categories[0], name = "Getuk Goreng", description = "Manis Gurih", price = 30000.0, stock = 12, img = "getuk_goreng"),
+        Product(id = 5, category_id = 1, category = categories[0], name = "Nopia", description = "Manis Manis Kenyal", price = 18000.0, stock = 25, img = "nopia"),
 
         // Minuman
         Product(id = 6, category_id = 2, category = categories[1], name = "Es Dawet", description = "Segar Manis", price = 10000.0, stock = 30, img = "dummy_product"),
