@@ -22,8 +22,9 @@ Shift Akhir : D
 
 ![Pertemuan 3](/pertemuan3dark.jpeg)
 ![Pertemuan 3](/pertemuan3light.jpeg)
-![Pertemuan 3](/Pertemuan3.mp4)
+<video src="Pertemuan3.mp4"></video>
 
 ### Pertemuan 4
 
-![Pertemuan 4](/Pertemuan4.mp4)
+<video src="Pertemuan4.mp4"></video>
+
